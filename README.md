@@ -27,6 +27,23 @@ Nous avons choisi de nous focaliser sur les crimes commis envers les femmes.
 
 ## Support de présentation : 
 
-Canva : https://www.canva.com/design/DAGcWaH5B64/Y7XZohpvMEjgB1J2T1V7nQ/view?utm_content=DAGcWaH5B64&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2bb989b2da
+Réalisé sur Canva
+https://www.canva.com/design/DAGcWaH5B64/Y7XZohpvMEjgB1J2T1V7nQ/view?utm_content=DAGcWaH5B64&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2bb989b2da
 
-[embed]https://github.com/Laetitia-Vg/Mission_data/blob/main/Canva%20MD.png[/embed]
+![Presentation](/Canva_MD.png)
+![Presentation_PDF](/Presentation_MD.pdf)
+
+## Dashboard :
+
+Réalisés sur tableau 
+
+ ![Dashboard1](/MD_Dashboard1.png)
+ ![Dashboard2](/MD_Dashboard2.png)
+ ![Dashboard3](/MD_Dashboard3.png)
+
+
+ ## Collaboration
+ 
+Ce projet a été mené en collaboration avec [@Jtfassinot](https://github.com/Jtfassinot).
+
+ 
